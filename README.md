@@ -3,8 +3,7 @@
 This project is a **virtual art gallery website** built with **HTML and CSS**.
 
 ## 🔗 Live Demo
-View the website here:
-https://callmehelga.github.io/art-gallery-project/
+[View the website here:](https://callmehelga.github.io/art-gallery-project/)
 
 ## 📌 Project Overview
 The website presents a **virtual art gallery** featuring:
